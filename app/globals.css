@@ -24,3 +24,21 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.Input {
+  width: 100%;
+  border-radius: 0.75rem;
+  border: 1px solid #cbd5e1;
+  padding: 0.75rem;
+  font-size: 0.875rem;
+}
+
+.PrimaryButton {
+  width: 100%;
+  border-radius: 0.75rem;
+  background: #0f172a;
+  color: white;
+  padding: 0.75rem;
+  font-weight: 700;
+  font-size: 0.875rem;
+}
